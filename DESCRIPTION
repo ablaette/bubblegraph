@@ -1,0 +1,17 @@
+Package: bubblegraph
+Type: Package
+Title: bubblegraph
+Version: 0.1.1
+Date: 2015-02-02
+Author: Andreas Blaette
+Maintainer: Andreas Blaette <andreas.blaette@uni-due.de>
+Depends:
+    methods
+Imports:
+    RColorBrewer
+Suggests:
+    knitr
+VignetteBuilder: knitr
+LazyData: yes
+Description: produce bubblegraphs
+License: GPL-2 | file LICENSE
